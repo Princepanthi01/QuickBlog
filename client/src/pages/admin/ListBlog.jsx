@@ -22,6 +22,8 @@ const ListBlog = () => {
     }
   }
 
+
+  
    useEffect(()=> {
     fetchBlogs()
    },[])
