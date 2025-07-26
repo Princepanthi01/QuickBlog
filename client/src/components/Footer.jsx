@@ -9,7 +9,7 @@ const Footer = () => {
             <img src={assets.logo} alt='logo' className='w-32 sm:w-44' />
             <p
             className='max-w-[410px] mt-6'  
-            >Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus asperiores nesciunt corrupti quod optio ipsam expedita, ullam reprehenderit ut dolore?</p>
+            >Quick Blog is a secure and scalable full-stack blog management app built using the MERN stack (MongoDB, Express, React, Node.js), enhanced with Gemini API integration. It features JWT-based admin authentication, Markdown-powered blog creation, and AI-generated descriptions. The platform supports blog listing, commenting with admin moderation, and dynamic blog publishing.</p>
          </div>
 
          <div className='flex flex-wrap justify-between w-full md:w-[45%] gap-5'>
